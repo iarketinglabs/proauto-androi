@@ -1,0 +1,30 @@
+/* Portrait compositions approved by brief: full bleed cover, angled seam. */
+.design-1 .hero-art{
+  top:0;right:0;width:850px;height:1080px;object-fit:cover;
+  object-position:55% center;mix-blend-mode:normal;opacity:1;
+  clip-path:polygon(0 0,100% 0,100% 100%,16% 100%);z-index:0;
+}
+.design-1 .heading{width:900px;position:relative;z-index:1}
+.design-1 .heading h1{max-width:900px}
+.design-1 .subtitle{max-width:860px}
+.design-1 .counter{display:none}
+.design-1 footer{width:880px;right:auto;flex-direction:column;gap:10px}
+.design-1 footer span:first-child,.design-1 footer span:last-child{max-width:100%;text-align:left}
+.design-15 .illustrated{grid-template-columns:1fr 400px;gap:48px}
+.design-15 .art-panel{width:384px;height:480px;border-radius:0;align-self:center;justify-self:end;overflow:hidden}
+.design-15 .art-panel img{width:384px;height:480px;object-fit:cover;object-position:center;mix-blend-mode:normal}
+@media print{
+ .design-1 .hero-art{height:1080px}
+ .design-15 .art-panel,.design-15 .art-panel img{width:384px;height:480px}
+}
+.design-15 .illustrated .card{padding:8px 16px}
+
+/* Setup: 40% para os primeiros cinco clientes. */
+.design-12 .heading{height:300px}
+.design-12 .heading h1{height:164px}
+.discount-line{display:flex;align-items:center;gap:24px;margin:10px 0 0}
+.discount-line del{font:400 44px/1.2 var(--text);color:var(--g500);text-decoration-thickness:3px}
+.discount-badge{display:inline-block;background:var(--yellow-500);color:var(--g900);font:500 32px/1 var(--label);padding:12px 18px;border-radius:8px}
+.design-12 .card:first-child{border:3px solid var(--cyan-700)}
+.design-12 .card:first-child .price{margin:14px 0 20px}
+.design-12 .mini-label{font-size:24px;letter-spacing:.06em}
