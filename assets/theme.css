@@ -22,3 +22,4 @@ footer{position:absolute;left:var(--side);right:var(--side);bottom:48px;display:
 
 /* Editorial spacing for this commercial deck; font sizes preserved. */
 .card{padding:28px 32px}.content{gap:24px}.heading .subtitle{font-size:40px}footer{font-size:22px}footer span:first-child{max-width:40%}footer span:last-child{max-width:58%;text-align:right}
+
