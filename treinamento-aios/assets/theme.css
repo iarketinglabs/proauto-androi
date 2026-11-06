@@ -398,3 +398,9 @@ h1 .brand-term{font-size:.85em}
 .deck-marcaserio.fiel-6.has-visual .benchmark-callout{flex:0 0 auto;grid-template-columns:190px 1fr;gap:12px;padding:10px 13px}
 .deck-marcaserio.fiel-6.has-visual .benchmark-callout .mini-label{font-size:21px}
 .deck-marcaserio.fiel-6.has-visual .benchmark-callout p{font-size:19px;line-height:1.12}
+
+/* Keep the maestro within the canvas while bleeding through the safe margin and covering the footer label. */
+.deck-proauto.fiel-3 .fiel-visual,
+.deck-marcaserio.fiel-5 .fiel-visual{left:0;right:auto;bottom:0;width:630px;height:788px;z-index:2;overflow:hidden}
+.deck-proauto.fiel-3 footer,
+.deck-marcaserio.fiel-5 footer{z-index:1}

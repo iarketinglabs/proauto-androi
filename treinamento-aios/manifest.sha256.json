@@ -1,11 +1,5 @@
 {
   ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "index.html": "30c0fcbae1598f446ae8242f5fe7e76ac970525162fbf4b7b4ace57fe8ab1647",
-  "presentation.pdf": "b931321ebf696f3364ae161fcea1e23f1cc64a0a25b4f370c6e4115cf478aa15",
-  "assets/logo-mark.png": "e3c500ee46a92750d4410aec9fbfdd2ca4f8c1544a0177f2b7cdfa0a5bb9a4bd",
-  "assets/player.js": "daff77363648c0ef2de685aff689d6ccbbcc94d195ad2dcd17784b806ab0233a",
-  "assets/pulp-paper.png": "ce05545c4e724f4762c49b92245bc7ce19b70114b0400bae2839c56f1a2f90b9",
-  "assets/theme.css": "ec04b4b910527102ade9c98b378018fc306bba461b4c5baf61ed3cd34c4c09b0",
   "assets/fonts/BebasNeue-Regular.ttf": "830ea186acffc2316ed1a4e42319246ba3b46b04e33a211079249bf901193f04",
   "assets/fonts/Jost-VariableFont_wght.ttf": "8d3141b6b4793c691c3647c602372c836577bf0c48a6b66674bbd558a95c1b57",
   "assets/fonts/LibreBaskerville-Italic.ttf": "223959683dc73ec4437bd61fabaa4b3f22209e22855ffd3aee36ba61a5116e97",
@@ -14,10 +8,16 @@
   "assets/licenses/jost-OFL.txt": "82b806b20fb9d8f2c64669c12a44efb87d27971e743f38a78365e83641626dd2",
   "assets/licenses/librebaskerville-OFL.txt": "516bf7fbfdbd0f0e4f50ade6a9127ad83ac7a54370bad6cf70794554569e9c4e",
   "assets/licenses/oswald-OFL.txt": "0b2472b17e950b9967818f169f2618b091c0c259d250d2dd8208961c7f5700e1",
+  "assets/logo-mark.png": "e3c500ee46a92750d4410aec9fbfdd2ca4f8c1544a0177f2b7cdfa0a5bb9a4bd",
   "assets/media/fonte-desafios.png": "b7df20a96fc3391c5c5a3a1b7129dbb90382127d21aef28aa09fd1e4e018c90e",
   "assets/media/fonte-framework.png": "2fd3ed735ebc747d7dbd30454141be4c835ac2e4193ef9baf9050be27c64552c",
   "assets/media/fonte-maestro.png": "8f5bb4fe5ef29ea29aff06ef1a540c8744078deb22ca2f1b9aa488c4011b06ed",
   "assets/media/fonte-ponte-transformacao.png": "b3cff32492c75fe8be89c4e4ca5a5df6463f8eca7b6de71549b300201191c214",
   "assets/media/fonte-robo.png": "4074b09a2db8eade95177d4c61a7e8f8fa3cbc522da7a8d554932dea33c8dbf5",
-  "assets/media/image-01.png": "f7ba1b4c4320096f4cef0150a5630c6669d675420869b5992cbf5aec9e00a58c"
+  "assets/media/image-01.png": "f7ba1b4c4320096f4cef0150a5630c6669d675420869b5992cbf5aec9e00a58c",
+  "assets/player.js": "daff77363648c0ef2de685aff689d6ccbbcc94d195ad2dcd17784b806ab0233a",
+  "assets/pulp-paper.png": "ce05545c4e724f4762c49b92245bc7ce19b70114b0400bae2839c56f1a2f90b9",
+  "assets/theme.css": "9f58d565af1aa259c3a6c45bf2b244baef5b904b0a2d91e35c541f8188a913f3",
+  "index.html": "c324ca927e67941eb3b60a8e6812904b52c061dffb43011142a2d61c2a7c6f1c",
+  "presentation.pdf": "98349e7256b410775ad25a45c0aaa9ebe235e5752f8e952a4caeceac0a71d48f"
 }
